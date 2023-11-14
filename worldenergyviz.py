@@ -7,7 +7,7 @@ import numpy as np
 st.set_page_config(layout="wide")
 
 # load in energy data
-energy_df = pd.read_csv('C:\\Users\\itsam\\Desktop\\Portfolio Projects\\owid-energy-data.csv')
+energy_df = pd.read_csv('owid-energy-data.csv')
 
 # get only columns relating to energy consumption
 consumption_columns = [col for col in energy_df.columns if col.endswith('_consumption')]
