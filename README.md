@@ -21,7 +21,7 @@ This Streamlit dashboard visualizes world energy consumption, focusing on the to
 ### Installation
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/amruthn99/World-Energy-Visualization-Streamlit.git
 
 ### Usage
 - Select a timeframe, country, and energy type to visualize the trends.
