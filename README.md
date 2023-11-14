@@ -2,7 +2,7 @@
 
 ## About The Project
 This Streamlit dashboard visualizes world energy consumption, focusing on the top 6 energy sources from 1900 to 2018. Users can explore trends across six countries: France, Germany, the UK, the US, India, and Japan.
-- [View Streamlit Dashboard](https://world-energy-visualization-app.streamlit.app/)
+- [View Streamlit Dashboard](https://world-energy-consumption-dashboard.streamlit.app/)
 ### Built With
 - [Streamlit](https://streamlit.io/)
 - [Python](https://www.python.org/)
